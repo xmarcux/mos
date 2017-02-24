@@ -1,0 +1,6 @@
+[package]
+name = "mos"
+version = "0.1.0"
+authors = ["Marcus <marcux@marcux.org>"]
+
+[dependencies]
